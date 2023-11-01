@@ -6,3 +6,4 @@ const difference = 45 - 33;
 const product = 8 * 10;
 // для деления /
 const quotient = 66 / 33;
+ff
